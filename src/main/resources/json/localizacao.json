@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "cep": "555-5555",
+    "enderoceo": "Rua x"
+  },
+  {
+    "id": 2,
+    "cep": "555-5556",
+    "enderoceo": "Rua y"
+  }
+]

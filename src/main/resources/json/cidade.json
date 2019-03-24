@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Curitiba",
+    "bairro": "Taruma"
+  },
+  {
+    "id": 2,
+    "nome": "Pinhais",
+    "bairro": "Emiliano Perneta"
+  }
+]
